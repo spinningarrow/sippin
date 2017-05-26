@@ -1,0 +1,3 @@
+# Sippin'
+
+A chat interface.
